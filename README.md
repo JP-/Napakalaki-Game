@@ -1,4 +1,4 @@
-Juego de cartas RPG realizado en JAVA pra las prácticas de la asignatura de Programación y Diseño Orientado a Objetos (PDOO) de la Universidad de Granada.
+Juego de cartas RPG realizado en JAVA para las prácticas de la asignatura de Programación y Diseño Orientado a Objetos (PDOO) de la Universidad de Granada.
 
 Autores:
 
