@@ -1,6 +1,6 @@
-Práctica para la asignatura de Programación y Diseño Orientado a Objetos (PDOO) de la Universidad de Granada.
+Juego de cartas RPG realizado en JAVA pra las prácticas de la asignatura de Programación y Diseño Orientado a Objetos (PDOO) de la Universidad de Granada.
 
-Todos los derechos reservados a:
+Autores:
 
 (C) Antonio Calderón Cortiñas
 
